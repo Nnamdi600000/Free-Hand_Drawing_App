@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Drawing App</string>
+    <string name="app_background_image">App background IMAGE</string>
+    <string name="redo_button">Redo button</string>
+    <string name="save_button">Save button</string>
+    <string name="import_button">Import button</string>
+    <string name="brush_button">Brush button</string>
+    <string name="undo_button">Undo button</string>
+    <string name="paint_green">Paint green</string>
+    <string name="paint_organic_brown">paint organic brown</string>
+    <string name="paint_dark_brown">paint Dark_Brown</string>
+    <string name="paint_red">paint red</string>
+    <string name="paint_red_blood">paint red blood</string>
+    <string name="paint_pink">paint pink</string>
+    <string name="paint_ash_white">paint ash white</string>
+    <string name="paint_purple">paint purple</string>
+    <string name="paint_night_blue">paint night blue</string>
+    <string name="paint_charcoal_blue">paint charcoal blue</string>
+    <string name="paint_white">paint white</string>
+    <string name="paint_azure_blue">paint azure blue</string>
+    <string name="paint_platinum">paint platinum</string>
+    <string name="paint_dark_grey">paint dark grey</string>
+    <string name="paint_mint_green">paint mint green</string>
+    <string name="paint_black">paint black</string>
+</resources>
